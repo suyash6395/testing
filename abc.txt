@@ -1,4 +1,3 @@
 this is a sample text file
-new changes are made to this file
 adding changes to file
-a new line is added
+another line is added to the code
