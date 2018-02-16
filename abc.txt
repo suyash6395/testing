@@ -1,3 +1,2 @@
 this is a sample text file
-adding changes to file
-another line is added to the code
+i am removing all the text from this file
